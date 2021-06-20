@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![Portfolio Website](<https://raw.githubusercontent.com/Shivanshdev12/imghost/main/Screenshot%20(382).png?token=AKNPJ75DH5QAJIIDTUIIETLA3DTVO>)
